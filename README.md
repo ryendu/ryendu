@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ryendu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ryendu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ryan0730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="ryan0730" height="30" width="40" /></a>
-<a href="https://kaggle.com/ryendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="ryendu" height="30" width="40" /></a>
-<a href="https://medium.com/@ryendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@ryendu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13770657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/stack-overflow.svg" alt="ryan0730" height="30" width="40" /></a>
+<a href="https://kaggle.com/ryendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/kaggle.svg" alt="ryendu" height="30" width="40" /></a>
+<a href="https://medium.com/@ryendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/medium.svg" alt="@ryendu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
