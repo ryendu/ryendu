@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryendu](https://github.com/ryendu)
 
-- 📝 I regularly write articles on [https://medium.com/@ryendu](https://medium.com/@ryendu)
+- 📝 I sometimes write articles on [https://medium.com/@ryendu](https://medium.com/@ryendu)
 
-- 💬 Ask me about **swift, machine learning, and more.**
+- 💬 Ask me about **swift, python, machine learning, and more.**
 
 - 📫 How to reach me **ryandu9221@gmail.com**
 
