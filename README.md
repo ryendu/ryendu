@@ -4,13 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryendu&label=Profile%20views&color=0e75b6&style=flat" alt="ryendu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryendu" alt="ryendu" /></a> </p>
-- 🌱 I’m currently learning **JS, cpp, and web dev**
+
+- 🌱 I’m currently learning **Web Dev**
 
 - 💬 Ask me about **swift, python, machine learning, and more.**
 
 - 📫 I'm open to chat! For socials, see the side bar or down below
 
 - ⚡ Fun fact **I play the cello 🎻**
+
+<h3 align="left">Achievments:</h3>
+<p align="left"> 
+<a><img align="center" src="https://camo.githubusercontent.com/3e1ee8cf26cda9e2ed969fb87647c24cad41d9a4c45ba1f9a782e6839f17ebbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d32303231253230575744432532305363686f6c61722d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465" /></a>
+
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
