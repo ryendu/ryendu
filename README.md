@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ryan (He/Him)</h1>
-<h3 align="center">A 14 year old student developer from the US 🌎</h3>
+<h3 align="center">A 14 year old student from the US 🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryendu&label=Profile%20views&color=0e75b6&style=flat" alt="ryendu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryendu" alt="ryendu" /></a> </p>
-
-- 🔭 I’m currently working on [Contributing to DL4S](https://github.com/palle-k/DL4S)
-
 - 🌱 I’m currently learning **JS, cpp, and web dev**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ryendu](https://github.com/ryendu)
-
-- 📝 I sometimes write articles on [https://medium.com/@ryendu](https://medium.com/@ryendu)
 
 - 💬 Ask me about **swift, python, machine learning, and more.**
 
-- 📫 How to reach me **ryandu9221@gmail.com**
+- 📫 I'm open to chat! For socials, see the side bar or down below
 
 - ⚡ Fun fact **I play the cello 🎻**
 
