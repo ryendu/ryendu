@@ -27,6 +27,9 @@
 <a href="https://stackoverflow.com/users/13770657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/stack-overflow.svg" alt="ryan0730" height="30" width="40" /></a>
 <a href="https://kaggle.com/ryendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/kaggle.svg" alt="ryendu" height="30" width="40" /></a>
 <a href="https://medium.com/@ryendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/medium.svg" alt="@ryendu" height="30" width="40" /></a>
+<a href="https://discord.com/users/738819245680623647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/Social/discord.svg" alt="ryendu#1959" height="35" width="45" /></a>
+  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
