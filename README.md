@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryendu&label=Profile%20views&color=0e75b6&style=flat" alt="ryendu" /> </p>
 
-- 🌱 I’m currently learning **Web Dev**
-
-- 💬 Ask me about **swift, python, machine learning, and more.**
-
 - 📫 I'm open to chat! For socials, see the side bar or down below
 
 - ⚡ Fun fact **I play the cello 🎻**
