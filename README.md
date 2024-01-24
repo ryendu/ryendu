@@ -4,8 +4,8 @@
 
 I'm a high school student passionate about learning new things with my free time. I'm currently exploring my ways through machine learning, web development, and app development. Portfolio is a work in progress coming soon!
 
-| :p | :0 |
-|----|----|
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryendu&show_icons=true&locale=en&count_private=true" alt="ryendu" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryendu&" alt="ryendu" /></p> |
+|:0 |
+|----|
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryendu&" alt="ryendu" /></p> |
 
 
